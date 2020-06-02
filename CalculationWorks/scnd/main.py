@@ -5,9 +5,7 @@ import scipy.stats as stats
 import numpy as np
 import random
 from CalculationWorks.scnd import help
-
 # =================================== Подготовка данных ===============================
-
 relay_SDVIG = 0
 
 f = open("Task_2.txt")
